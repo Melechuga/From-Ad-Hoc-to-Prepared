@@ -1,7 +1,7 @@
 # From Ad-Hoc to Prepared
 ### Best-Practices for Organizations whose Staff/Volunteers Experience Online Harassment
 
-**Objective:** The long-term goal is to help reduce the impact of harassment experienced by staff, and thus reduce staff turnover, the impact of trauma on the team, and to build the internal capacity for resilience. By collaborating across the social justice and technology sectors, we identify and build best-practices that are useful, effective, and prepare organizations to effectively and successfully support their staff/volunteers who experience online harassment.
+**Objective:** The long-term goal is to help reduce the impact of harassment experienced by staff, and thus reduce staff turnover, the impact of trauma on the team, and to build the internal capacity for resilience. By collaborating across the social justice and technology sectors, we identify and build best-practices that are useful, effective, and prepare organizations to effectively and successfully support their staff/volunteers who experience online harassment.*
 
 By developing this framework with others, we are working with stakeholders who will put these guidelines to use and share them with other like-minded organizations. This group looks to:
 
@@ -18,6 +18,8 @@ By developing this framework with others, we are working with stakeholders who w
 * [Code of Conduct and Builder Tool](https://docs.google.com/document/d/1pcnZzeNjHoW1FN8nHjq0G_b5YwTxeRwEJgPoxiyxnoE/edit)
 * [Anti-harassment policy](https://docs.google.com/document/d/18cxHbUANdO69Is4Y3dOof0sMqvRyCJlpP0JxdFD8KSE/edit)
 * [Leadership Statement of Support](https://docs.google.com/document/d/13Yd0pdNUYFpk6B5Okyrsexn8P5ggoa0VkQYqFNzmLZY/edit)
+
+
 
 *Definition:
 
